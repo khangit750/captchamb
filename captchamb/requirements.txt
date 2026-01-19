@@ -1,4 +1,4 @@
 fastapi
 uvicorn
 pillow
-./mb_capcha_ocr-0.1.4-py3-none-any.whl
+mb-capcha-ocr==0.1.4
